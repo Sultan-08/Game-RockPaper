@@ -25,5 +25,5 @@ def rock_paper_scissors():
             print("You win!\n")
         else:
             print("Computer wins!\n")
-# Run the game
+# Start the game
 rock_paper_scissors()
